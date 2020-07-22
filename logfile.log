@@ -1,0 +1,10 @@
+2020-07-20 12:10:16,658 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 12:10:18,351 : INFO : test_formSubmission : first name is sarva
+2020-07-20 12:10:18,351 : INFO : test_formSubmission : first name is sarva
+2020-07-20 12:10:31,678 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 12:10:31,731 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 12:10:31,783 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 12:10:31,830 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 12:10:32,503 : INFO : test_e2eTest : entering country info
+2020-07-20 12:10:38,776 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

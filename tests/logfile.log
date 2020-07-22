@@ -1,0 +1,260 @@
+2020-07-18 17:01:31,234 : INFO : test_e2eTest : entering country info
+2020-07-18 17:02:35,377 : INFO : test_e2eTest : entering country info
+2020-07-18 17:02:41,515 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:04:21,207 : INFO : test_e2eTest : entering country info
+2020-07-18 17:04:27,127 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:07:29,681 : INFO : test_e2eTest : card Text iphone X
+2020-07-18 17:07:29,715 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-18 17:07:29,747 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-18 17:07:29,774 : INFO : test_e2eTest : card Text Blackberry
+2020-07-18 17:07:30,371 : INFO : test_e2eTest : entering country info
+2020-07-18 17:07:36,613 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:15:15,249 : INFO : test_e2eTest : card Text iphone X
+2020-07-18 17:15:15,291 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-18 17:15:15,363 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-18 17:15:15,403 : INFO : test_e2eTest : card Text Blackberry
+2020-07-18 17:15:15,894 : INFO : test_e2eTest : entering country info
+2020-07-18 17:15:22,086 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:18:27,016 : INFO : test_e2eTest : card Text iphone X
+2020-07-18 17:18:27,040 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-18 17:18:27,060 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-18 17:18:27,084 : INFO : test_e2eTest : card Text Blackberry
+2020-07-18 17:18:27,536 : INFO : test_e2eTest : entering country info
+2020-07-18 17:18:33,846 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:20:23,946 : INFO : test_e2eTest : card Text iphone X
+2020-07-18 17:20:23,982 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-18 17:20:24,014 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-18 17:20:24,040 : INFO : test_e2eTest : card Text Blackberry
+2020-07-18 17:20:24,443 : INFO : test_e2eTest : entering country info
+2020-07-18 17:20:30,422 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:30:58,238 : INFO : test_e2eTest : card Text iphone X
+2020-07-18 17:30:58,274 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-18 17:30:58,306 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-18 17:30:58,333 : INFO : test_e2eTest : card Text Blackberry
+2020-07-18 17:30:58,771 : INFO : test_e2eTest : entering country info
+2020-07-18 17:31:05,124 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-18 17:37:43,823 : INFO : test_formSubmission : first name is Suchi
+2020-07-18 17:37:45,369 : INFO : test_formSubmission : first name is sarva
+2020-07-18 17:37:45,369 : INFO : test_formSubmission : first name is sarva
+2020-07-18 17:38:51,171 : INFO : test_formSubmission : first name is Suchi
+2020-07-18 17:38:53,003 : INFO : test_formSubmission : first name is sarva
+2020-07-18 17:38:53,003 : INFO : test_formSubmission : first name is sarva
+2020-07-18 17:39:08,296 : INFO : test_e2eTest : card Text iphone X
+2020-07-18 17:39:08,320 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-18 17:39:08,354 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-18 17:39:08,382 : INFO : test_e2eTest : card Text Blackberry
+2020-07-18 17:39:08,819 : INFO : test_e2eTest : entering country info
+2020-07-18 17:39:14,859 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-19 16:00:42,567 : INFO : test_formSubmission : first name is Suchi
+2020-07-19 16:00:44,341 : INFO : test_formSubmission : first name is sarva
+2020-07-19 16:00:44,341 : INFO : test_formSubmission : first name is sarva
+2020-07-19 16:00:57,125 : INFO : test_e2eTest : card Text iphone X
+2020-07-19 16:00:57,153 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-19 16:00:57,187 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-19 16:00:57,209 : INFO : test_e2eTest : card Text Blackberry
+2020-07-19 16:00:57,661 : INFO : test_e2eTest : entering country info
+2020-07-19 16:01:03,788 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-19 16:05:23,879 : INFO : test_formSubmission : first name is Suchi
+2020-07-19 16:05:25,352 : INFO : test_formSubmission : first name is sarva
+2020-07-19 16:05:25,352 : INFO : test_formSubmission : first name is sarva
+2020-07-19 16:05:38,179 : INFO : test_e2eTest : card Text iphone X
+2020-07-19 16:05:38,208 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-19 16:05:38,233 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-19 16:05:38,253 : INFO : test_e2eTest : card Text Blackberry
+2020-07-19 16:05:38,873 : INFO : test_e2eTest : entering country info
+2020-07-19 16:05:44,856 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 10:10:29,376 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 10:10:31,162 : INFO : test_formSubmission : first name is sarva
+2020-07-20 10:10:31,162 : INFO : test_formSubmission : first name is sarva
+2020-07-20 10:10:44,123 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 10:10:44,151 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 10:10:44,173 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 10:10:44,196 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 10:10:44,706 : INFO : test_e2eTest : entering country info
+2020-07-20 10:10:50,872 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 10:14:41,579 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 10:14:43,172 : INFO : test_formSubmission : first name is sarva
+2020-07-20 10:14:43,172 : INFO : test_formSubmission : first name is sarva
+2020-07-20 10:14:55,552 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 10:14:55,611 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 10:14:55,648 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 10:14:55,671 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 10:14:56,121 : INFO : test_e2eTest : entering country info
+2020-07-20 10:15:02,390 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 10:38:49,849 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 10:38:52,612 : INFO : test_formSubmission : first name is sarva
+2020-07-20 10:38:52,612 : INFO : test_formSubmission : first name is sarva
+2020-07-20 10:39:08,724 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 10:39:08,760 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 10:39:08,793 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 10:39:08,818 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 10:39:09,316 : INFO : test_e2eTest : entering country info
+2020-07-20 10:39:15,514 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 11:06:16,357 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 11:06:18,173 : INFO : test_formSubmission : first name is sarva
+2020-07-20 11:06:18,173 : INFO : test_formSubmission : first name is sarva
+2020-07-20 11:06:33,833 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 11:06:33,854 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 11:06:33,881 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 11:06:33,913 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 11:06:34,367 : INFO : test_e2eTest : entering country info
+2020-07-20 11:06:40,650 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 12:31:25,573 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 12:31:26,932 : INFO : test_formSubmission : first name is sarva
+2020-07-20 12:31:26,932 : INFO : test_formSubmission : first name is sarva
+2020-07-20 12:41:09,558 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 12:41:11,469 : INFO : test_formSubmission : first name is sarva
+2020-07-20 12:41:11,469 : INFO : test_formSubmission : first name is sarva
+2020-07-20 12:41:23,709 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 12:41:23,746 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 12:41:23,782 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 12:41:23,811 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 12:41:24,241 : INFO : test_e2eTest : entering country info
+2020-07-20 12:41:30,192 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 13:52:58,767 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 13:54:19,378 : INFO : test_formSubmission : first name is sarva
+2020-07-20 13:54:19,378 : INFO : test_formSubmission : first name is sarva
+2020-07-20 14:50:38,666 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 14:51:58,281 : INFO : test_formSubmission : first name is sarva
+2020-07-20 14:51:58,281 : INFO : test_formSubmission : first name is sarva
+2020-07-20 14:52:39,286 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 14:52:41,846 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 14:52:43,837 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 14:52:45,812 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 14:58:26,601 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 14:58:28,132 : INFO : test_formSubmission : first name is sarva
+2020-07-20 14:58:28,132 : INFO : test_formSubmission : first name is sarva
+2020-07-20 14:58:40,227 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 14:58:40,273 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 14:58:40,297 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 14:58:40,320 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 14:58:40,778 : INFO : test_e2eTest : entering country info
+2020-07-20 14:58:46,835 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 15:00:28,156 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 15:00:42,682 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:00:42,682 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:01:25,061 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:01:27,083 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:01:28,330 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:01:30,259 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:06:31,197 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 15:07:27,462 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:07:27,462 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:08:11,422 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:08:13,986 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:08:16,040 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:08:18,695 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:10:41,443 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:10:41,473 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:10:41,500 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:10:41,523 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:10:41,971 : INFO : test_e2eTest : entering country info
+2020-07-20 15:10:48,061 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 15:15:22,986 : INFO : test_e2eTest : count1 = 0
+2020-07-20 15:15:23,042 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:15:23,078 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:15:23,136 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:15:23,197 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:15:23,428 : INFO : test_e2eTest : count2 = 1
+2020-07-20 15:15:23,674 : INFO : test_e2eTest : entering country info
+2020-07-20 15:15:29,818 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 15:16:55,613 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 15:18:24,144 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:18:24,144 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:18:48,000 : INFO : test_e2eTest : count1 = 0
+2020-07-20 15:18:48,041 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:18:48,075 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:18:48,102 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:18:48,127 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:18:48,286 : INFO : test_e2eTest : count2 = 1
+2020-07-20 15:18:48,546 : INFO : test_e2eTest : entering country info
+2020-07-20 15:18:54,413 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 15:20:17,674 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 15:20:19,077 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:20:19,077 : INFO : test_formSubmission : first name is sarva
+2020-07-20 15:20:36,352 : INFO : test_e2eTest : count1 = 0
+2020-07-20 15:20:36,385 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:20:36,414 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:20:36,442 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:20:36,490 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:20:36,645 : INFO : test_e2eTest : count2 = 1
+2020-07-20 15:20:36,910 : INFO : test_e2eTest : entering country info
+2020-07-20 15:20:42,804 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 15:23:26,782 : INFO : test_e2eTest : count1 = 0
+2020-07-20 15:23:26,820 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 15:23:26,853 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 15:23:26,882 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 15:23:26,906 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 15:23:27,082 : INFO : test_e2eTest : count2 = 1
+2020-07-20 15:23:27,379 : INFO : test_e2eTest : entering country info
+2020-07-20 15:23:33,402 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 16:12:42,698 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 16:12:46,796 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:12:46,796 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:35:28,964 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 16:35:30,338 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:35:30,338 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:36:01,562 : INFO : test_e2eTest : count1 = 0
+2020-07-20 16:36:01,588 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 16:36:01,620 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 16:36:01,644 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 16:36:01,656 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 16:36:01,807 : INFO : test_e2eTest : count2 = 1
+2020-07-20 16:36:02,039 : INFO : test_e2eTest : entering country info
+2020-07-20 16:36:07,874 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 16:43:46,903 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 16:45:16,866 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:45:16,866 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:51:24,605 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 16:51:25,953 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:51:25,953 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:52:57,809 : INFO : test_e2eTest : count1 = 0
+2020-07-20 16:52:57,822 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 16:52:57,835 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 16:52:57,850 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 16:52:57,861 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 16:52:58,128 : INFO : test_e2eTest : count2 = 1
+2020-07-20 16:52:58,714 : INFO : test_e2eTest : entering country info
+2020-07-20 16:53:04,773 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-20 16:54:26,719 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 16:56:04,663 : INFO : test_formSubmission : first name is sarva
+2020-07-20 16:56:04,663 : INFO : test_formSubmission : first name is sarva
+2020-07-20 17:00:26,865 : INFO : test_formSubmission : first name is Suchi
+2020-07-20 17:00:59,935 : INFO : test_formSubmission : first name is sarva
+2020-07-20 17:00:59,935 : INFO : test_formSubmission : first name is sarva
+2020-07-20 17:01:26,645 : INFO : test_e2eTest : count1 = 0
+2020-07-20 17:01:26,661 : INFO : test_e2eTest : card Text iphone X
+2020-07-20 17:01:26,697 : INFO : test_e2eTest : card Text Samsung Note 8
+2020-07-20 17:01:26,718 : INFO : test_e2eTest : card Text Nokia Edge
+2020-07-20 17:01:26,741 : INFO : test_e2eTest : card Text Blackberry
+2020-07-20 17:01:26,877 : INFO : test_e2eTest : count2 = 1
+2020-07-20 17:01:27,285 : INFO : test_e2eTest : entering country info
+2020-07-20 17:01:33,249 : INFO : test_e2eTest : Text received ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-21 14:46:39,893 : INFO : test_formSubmission : first name is rithesh
+2020-07-21 14:54:47,016 : INFO : test_formSubmission : first name is rithesh
+2020-07-21 15:01:36,491 : INFO : test_formSubmission : first name is rithesh
+2020-07-21 15:21:46,284 : INFO : test_formSubmission : first name is rithesh
